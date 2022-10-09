@@ -1,7 +1,6 @@
 - 👋 Olá, Meu nome é Lorayne
 - 👀 Farei meus primeiros projetos e vou colocar eles aqui
 - 📚 Atualmente estou no 2° período de sistemas de informação 
-- 💞️ Espero colaborar com o aprendizado de alguém 
 - 📫 Você pode me encontrar aqui:  https://www.linkedin.com/in/lorayne-neves
 
 <!---
