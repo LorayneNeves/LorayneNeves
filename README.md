@@ -14,7 +14,7 @@
 [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/LorayneNeves/Portifolio/tree/main)
 #
 
-### Status
+### Stats
 
 ![Lorayne GitHub stats](https://github-readme-stats.vercel.app/api?username=LorayneNeves&show_icons=true&theme=midnight-purple)
 
