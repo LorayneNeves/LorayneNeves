@@ -15,7 +15,7 @@
 
 📚 Atualmente sou Analista de HelpDesk na Zema e estudante de Sistemas de Informação.
 </div>
-<div align="right">
+<div align="center">
   
 ![cat img](https://media1.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif?cid=ecf05e47ql47n0x7z6ee5a0u26uakdb4lhrlq68y8qcqcvfv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
