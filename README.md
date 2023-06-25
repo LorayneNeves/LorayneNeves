@@ -25,7 +25,7 @@
 <div align="center">
   
 ![op](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorayneNeves&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorayneNeves&size_weight=0.50&count_weight=0.50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorayneNeves&size_weight=0.50&count_weight=0.100)
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorayneNeves&theme=github" />
   </a>
