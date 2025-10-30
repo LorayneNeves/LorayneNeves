@@ -12,8 +12,6 @@
   
 ### Sobre mim 🧩
 🤖 Apaixonada por tecnologia especialmente pela área de desenvolvimento e programação.
-
-📚 Atualmente sou Analista de HelpDesk na Zema e estudante de Sistemas de Informação.
 </div>
 <div align="center">
   
